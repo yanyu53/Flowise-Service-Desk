@@ -22,6 +22,36 @@
 - **模型治理**：可基于 Anthropic 兼容网关（如 DashScope）接入模型
 - **本地开发友好**：针对 Windows/SQLite 场景做了兼容性修复
 
+## 界面展示
+
+### 1) 聊天流
+
+![聊天流](./images/screenshots/03-chatflows.png)
+
+### 2) 客服工作台
+
+![客服工作台](./images/screenshots/02-workbench.png)
+
+### 3) 客户中心
+
+![客户中心](./images/screenshots/05-customers.png)
+
+### 4) 会话中心
+
+![会话中心](./images/screenshots/01-conversations.png)
+
+### 5) 用量与成本
+
+![用量与成本](./images/screenshots/04-usage-cost.png)
+
+### 6) 工单管理
+
+![工单管理](./images/screenshots/06-tickets.png)
+
+### 7) 模板市场
+
+![模板市场](./images/screenshots/07-marketplace.png)
+
 ## 快速开始（本地开发）
 
 ### 1) 环境要求
